@@ -31,9 +31,12 @@ in vs code terminal -> git clone url of this repo
 
 ### Backend
 cd backend
+
 uvicorn app:app --reload
 
 ### Frontend
 cd frontend
+
 npm install
+
 npm run dev
