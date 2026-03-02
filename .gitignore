@@ -1,0 +1,21 @@
+# Node
+node_modules/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+
+# Model files
+*.pkl
+
+# Dataset (optional)
+synthetic_mule_dataset.csv
+
+# OS
+.DS_Store
+Thumbs.db
